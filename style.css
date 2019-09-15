@@ -89,12 +89,12 @@ li {
   text-decoration: none;
 }
 .topnav a:hover {
-    /* background-color: #7195ba; */
-    background-color: #9bf;
+    /* background-color: #9bf; */
+    background-color: #08c;
     color: #000;
 }
 .topnav a.active {
-    /* background-color: #041d35; */
-    background-color: #612;
+    /* background-color: #612; */
+		background-color:#069;
     color: #FFF;
 }
